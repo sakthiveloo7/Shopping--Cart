@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a straightforward shopping cart application developed with React. Users can explore a variety of football boots, add them to the cart, and remove them as needed. Each product comes with details such as product name, image, star rating, original price, discounted price, and a "Top Sale" badge indicating popular items.
+This is a straightforward shopping cart application developed with React. Users can explore a variety of Cristiano Ronaldo products, add them to the cart, and remove them as needed. Each product comes with details such as product name, image, star rating, original price, discounted price, and a "Top Sale" badge indicating popular items.
 
 ## Features
 
@@ -30,13 +30,6 @@ This is a straightforward shopping cart application developed with React. Users 
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
 </div>
 
-## Getting Started
-
-1. **Clone the Repository:** `git clone <repository-url>`
-2. **Install Dependencies:** `npm install`
-3. **Run the Application:** `npm start`
-4. **Visit the Application:** Open your browser and navigate to [http://localhost:3000](http://localhost:3000)
-
 ## Usage
 
 1. Browse the list of Cristiano Ronaldo products on the homepage.
@@ -47,7 +40,7 @@ This is a straightforward shopping cart application developed with React. Users 
    
 ## Deployment
 
-The application is deployed and can be accessed here : [shopping-cart](https://netlify-shopping-cart.netlify.app/).
+The application is deployed and can be accessed here : [shopping-cart]().
   
 
 Feel free to explore and enhance the application as needed!
