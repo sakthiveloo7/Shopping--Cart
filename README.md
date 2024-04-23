@@ -40,7 +40,7 @@ This is a straightforward shopping cart application developed with React. Users 
    
 ## Deployment
 
-The application is deployed and can be accessed here : [shopping-cart]().
+The application is deployed and can be accessed here : [shopping-cart](https://wwwshoppingcartcom.netlify.app/).
   
 
 Feel free to explore and enhance the application as needed!
